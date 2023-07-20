@@ -192,8 +192,9 @@ footer{
     flex-wrap: wrap;
     justify-content: space-between;
     border-top: 1px solid #dadce0;
-    font-size: 14px;
+    font-size: 13px;
     margin: 100px auto;
+    bottom: 0%;
 }
 
 footer .footer-left{
@@ -208,7 +209,7 @@ footer .footer-left{
 
 footer .footer-left a{
     color: #707577;
-    margin: 30px;
+    margin: 20px;
 }
 
 footer .footer-right{
@@ -223,5 +224,5 @@ footer .footer-right{
 
 footer .footer-right a{
     color: #70757a;
-    margin: 30px;
+    margin: 20px;
 }
