@@ -193,7 +193,7 @@ footer{
     justify-content: space-between;
     border-top: 1px solid #dadce0;
     font-size: 14px;
-    margin: 350px auto;
+    margin: 100px auto;
 }
 
 footer .footer-left{
@@ -203,7 +203,7 @@ footer .footer-left{
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
-    margin: 40px auto;
+    margin: 30px auto;
 }
 
 footer .footer-left a{
